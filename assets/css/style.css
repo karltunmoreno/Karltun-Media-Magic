@@ -4719,22 +4719,22 @@ textarea:-ms-input-placeholder {
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .testimonial_position_img img {
-    max-width: 900px;
+    max-width: 1600px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1365px) {
   .testimonial_position_img img {
-    max-width: 900px;
+    max-width: 800px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .testimonial_position_img img {
-    max-width: 900px;
+    max-width: 700px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .testimonial_position_img img {
-    width: 600px;
+    width: 400px;
   }
 }
 

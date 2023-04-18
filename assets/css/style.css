@@ -685,7 +685,7 @@ textarea:-ms-input-placeholder {
 }
 
 .sticky-header.sticky {
-  position: fixed;
+  position: relative;
   z-index: 99;
   width: 100%;
   top: 0;
@@ -2533,6 +2533,7 @@ textarea:-ms-input-placeholder {
 @media only screen and (max-width: 575px) {
   .hero_banner2 {
     height: 420px;
+    width: 575px;
   }
 }
 

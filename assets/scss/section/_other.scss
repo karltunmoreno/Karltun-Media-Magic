@@ -11,10 +11,10 @@
     height: 760px;
   }
   @media #{$large-mobile} {
-    height: 790px;
+    height: 1000px;
   }
   @media #{$small-mobile2} {
-    height: 830px;
+    height: 1020px;
   }
   &.mb-142 {
     @media #{$tablet-device} {
@@ -111,7 +111,7 @@
       margin-bottom: 66px;
     }
     @media #{$large-mobile} {
-      margin-bottom: 51px;
+      margin-bottom: 80px;
     }
   }
   &.mb-222 {
@@ -122,7 +122,7 @@
       margin-bottom: 67px;
     }
     @media #{$large-mobile} {
-      margin-bottom: 51px;
+      margin-bottom: 80px;
     }
   }
 }
@@ -168,20 +168,20 @@
 }
 .services_position_img {
   position: absolute;
-  right: 0;
+  right: 50%;
   top: 0;
   z-index: -1;
   @media #{$large-mobile} {
-    position: inherit;
-    max-width: 576px;
-    margin: 35px auto 0;
+    position: absolute;
+    max-width: 800px;
+    margin: 50px auto 0;
   }
   & img {
     @media #{$laptop-device} {
       max-width: 600px;
     }
     @media #{$desktop-device} {
-      max-width: 510px;
+      max-width: 780px;
     }
     @media #{$tablet-device} {
       max-width: 430px;
@@ -764,12 +764,15 @@
   }
   @media #{$tablet-device} {
     height: 650px;
+    width: auto;
   }
   @media #{$large-mobile} {
     height: 550px;
+    width: auto;
   }
   @media #{$small-mobile2} {
     height: 420px;
+    width: auto;
   }
 }
 .footer_about {

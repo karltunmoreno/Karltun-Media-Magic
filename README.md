@@ -1,2 +1,2 @@
 # Karltun-Media-Magic
-NEW BLOG SITE TEST
+NEW BLOG SITE 

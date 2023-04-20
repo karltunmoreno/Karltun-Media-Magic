@@ -129,10 +129,8 @@ input[type="submit"] {
 }
 
 img {
-  margin-left: auto;
-  margin-right: auto;
-
-  width: 60%;
+  max-width: 100%;
+  height: auto;
 }
 
 ul {
@@ -685,7 +683,7 @@ textarea:-ms-input-placeholder {
 }
 
 .sticky-header.sticky {
-  position: relative;
+  position: fixed;
   z-index: 99;
   width: 100%;
   top: 0;
@@ -732,7 +730,7 @@ textarea:-ms-input-placeholder {
 
 @media only screen and (max-width: 575px) {
   .header_logo img {
-    max-width: 300px;
+    max-width: 150px;
   }
 }
 
@@ -2533,7 +2531,6 @@ textarea:-ms-input-placeholder {
 @media only screen and (max-width: 575px) {
   .hero_banner2 {
     height: 420px;
-    width: 575px;
   }
 }
 
@@ -4709,33 +4706,33 @@ textarea:-ms-input-placeholder {
 @media only screen and (max-width: 767px) {
   .testimonial_position_img {
     position: inherit;
-    max-width: 750px;
+    max-width: 510px;
     margin: 0 auto;
   }
 }
 @media only screen and (max-width: 575px) {
   .testimonial_position_img {
-    padding: 0 05px;
+    padding: 0 20px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .testimonial_position_img img {
-    max-width: 1600px;
+    max-width: 790px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1365px) {
   .testimonial_position_img img {
-    max-width: 800px;
+    max-width: 740px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .testimonial_position_img img {
-    max-width: 700px;
+    max-width: 580px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .testimonial_position_img img {
-    width: 400px;
+    width: 415px;
   }
 }
 

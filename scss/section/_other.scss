@@ -34,6 +34,7 @@
     }
   }
 }
+
 .hero_content {
   padding-bottom: 180px;
   @media #{$laptop-device} {
@@ -769,31 +770,20 @@
 }
 .hero_banner2 {
   @media #{$desktop-device} {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 100%;
+    width: 100%;
     height: auto;
   }
   @media #{$tablet-device} {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 100%;
+    width: 100%;
     height: auto;
   }
 
   @media #{$large-mobile} {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 100%;
+    width: 100%;
   }
   @media #{$small-mobile2} {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 100%;
+    width: 100%;
   }
 }
 .footer_about {

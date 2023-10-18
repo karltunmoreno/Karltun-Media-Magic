@@ -1,7 +1,7 @@
 /*  
     CSS INDEX
     =========================================
-    01. header css here
+    01. hero_banner_innerhero_banner_innereader css here
     02. slider area css here
     03. blog css here
     04. testimonial css here
@@ -103,6 +103,12 @@ img,
 input,
 span {
   transition: all 0.3s ease 0s;
+}
+
+.responsive {
+  width: 100%;
+
+  height: auto;
 }
 
 .btn:focus {

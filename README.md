@@ -44,7 +44,7 @@ https://www.karltunmediamagic.com/
 
 ________________________________________________________________________________________________________________________________________________________
 
-## Technologies In Practice :
+## Technologies In Practice Used For Site :
   
   #### Front-end:
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
@@ -58,16 +58,17 @@ ________________________________________________________________________________
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
+
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 other libraries by Hasthemed
 
      
 _______________________________________________________________________________________________________________________________________________________
 
-# Work Completed
-Building a website with HTML & CSS. Work included:
-
-- [x] HTML outlined, used semantic HTML
-- [x] CSS added in hierarchical fashion, to meet design requiremetns
-- [x] Form field added
-- [x] Comments added in index.html and .css files for clarity around structure and function 
-- [x] SEO + accessibility factors added: Meta Description, Meta Keywords, Title Tags, image alt text 

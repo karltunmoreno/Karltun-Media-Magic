@@ -4,6 +4,8 @@ PORTFOLIO & BLOG SITE
 
 ![Ss](https://www.karltunmediamagic.com/assets/img/logo/logo.png)
 
+![Ss](https://media.licdn.com/dms/image/D4E2CAQFQPQq38aMp7w/comment-image-shrink_8192_1280/0/1708550277842?e=1709157600&v=beta&t=ppzKdQHXdRNgQOC7luYhA5NUlte7DEoKd-iLmSUt0A0)
+
 <p align="center"> :octocat: <b><a href="https://www.karltunmediamagic.com/portfolio.html"> GO TO MY PORTFOLIO </a>
 
 
@@ -14,7 +16,7 @@ This Pro Blog integrates all og Outer Bounds Pictures services and pages.  This 
 for showcasing and marketing all recent works porfolio. 
 _________________________________________________________________________________________________________________________________________________________________
 # Project Visual 😎:
-![Project-picture]()
+
 
 
 ____________________________________________________________________________________________________________________________________________________________________

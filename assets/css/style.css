@@ -4407,6 +4407,15 @@ textarea:-ms-input-placeholder {
     margin-bottom: 30px;
   }
 }
+
+@media (min-width: 1024px) and (max-width: 1440px) {
+  .testimonial_inner {
+    position: relative;
+    z-index: 9;
+    margin-top: 50px; /* Adjust the value to match the photo level */
+  }
+}
+
 .comments_box .section_title h2 {
   font-size: 30px;
   line-height: 30px;
@@ -4674,10 +4683,12 @@ textarea:-ms-input-placeholder {
 
 /*blog details css end*/
 /*testimonial css here*/
-.testimonial_section {
+.testimonial_inner {
   position: relative;
-  padding-bottom: 110px;
+  z-index: 9;
+  margin-top: 50px; /* Adjust the value to match the photo level */
 }
+
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .testimonial_section {
     padding-bottom: 70px;
@@ -4702,6 +4713,7 @@ textarea:-ms-input-placeholder {
 .testimonial_inner {
   position: relative;
   z-index: 9;
+  top: 30 px;
 }
 
 .testimonial_position_img {
@@ -4739,6 +4751,14 @@ textarea:-ms-input-placeholder {
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .testimonial_position_img img {
     width: 415px;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1440px) {
+  .testimonial_inner {
+    position: relative;
+    z-index: 9;
+    margin-top: 50px; /* Adjust the value to match the photo level */
   }
 }
 

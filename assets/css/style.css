@@ -449,6 +449,24 @@ textarea:-ms-input-placeholder {
   margin-bottom: 222px;
 }
 
+.bold-black-text {
+  font-weight: bold;
+  color: #000;
+}
+
+@media only screen and (max-width: 767px) {
+  .services_position_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .services_position_img img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+}
+
 .mb-142 {
   margin-bottom: 142px;
 }

@@ -334,6 +334,8 @@ textarea::-moz-placeholder {
   opacity: 1;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
+
+
 input:-ms-input-placeholder,
 textarea:-ms-input-placeholder {
   opacity: 1;
@@ -347,7 +349,7 @@ textarea:-ms-input-placeholder {
 #scrollUp {
   background: $secondary_color none repeat scroll 0 0;
   bottom: 85px;
-  color: #ffffff;
+  color: #c4edf0;
   cursor: pointer;
   display: none;
   font-size: 20px;
@@ -359,7 +361,7 @@ textarea:-ms-input-placeholder {
   width: 45px;
   z-index: 9999;
   border-radius: 50%;
-  border: 2px solid #fff;
+  border: 2px solid #c4e7ec;
   -webkit-transition: 0.3s;
   transition: 0.3s;
   &:hover i {
